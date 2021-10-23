@@ -1,8 +1,17 @@
 {
     "name": "Discord Dark",
     "is_dark": true,
+    "fonts": {
+         "faces": [
+             {
+                  "font-family": "Inter",
+                  "src": [{"url": "/fonts/Inter.ttf", "format": "ttf"}]
+             }
+         ],
+         "general": "Inter, sans",
+         "monospace": "'Courier New'"
     "colors": {
-        "accent-color": "#747ff4",
+        "accent-color": "#5865F2",
         "primary-color": "#00aff4",
         "warning-color": "#faa81ad9",
 
